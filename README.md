@@ -1,0 +1,2 @@
+# Bear
+A small bot.
