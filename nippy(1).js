@@ -205,3 +205,4 @@ if (msg.startsWith(prefix + 'invite')){ //here comes the prefix which is assigne
 });
 
 bot.login(process.env.BOT_TOKEN);
+
