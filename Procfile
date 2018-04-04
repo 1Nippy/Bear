@@ -1,1 +1,1 @@
-worker: node nippy(1).js
+worker: node nippy.js
