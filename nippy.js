@@ -162,6 +162,11 @@ const pics = [ //every variable assigned to something within brackets like this 
             name: "dead inside",
             url: "_**is currently**_: https://gph.is/2gLw6Bc"
         }
+        {
+            name: "gg",
+            url: "_**had a**_: http://gph.is/2dZcrIP"
+        }
+    
     ];
 
 //Here comes the fun part. This for Loop, loops through the array. Variable P gets created, starting at 0. 
