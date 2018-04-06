@@ -40,19 +40,19 @@ const pics = [ //every variable assigned to something within brackets like this 
         */
         {
             name: "bye",
-            url: "_**Good Bye Master, https://gph.is/22mdGVm FBAIUFBABFAPAJFOAHFIUWG**_"
+            url: "_**Good Bye Master, https://gph.is/22mdGVm FBAIUFBABFAPAJFOAHFIUWG : I will serve you again later**_"
         },
         {
             name: "shut up",
-            url: "_**Said: `Shut Up`**_ : https://gph.is/2pSFu7r"
+            url: "_**Said: `Shut Up`: https://gph.is/2pSFu7r**_"
         },
         {
             name: "hello",
-            url: "_**Said: `Hello :) `**_ : https://gph.is/1XddF2k"
+            url: "_**Said: `Hello :) `: https://gph.is/1XddF2k**_"
         },
         {
             name: "hackerman",
-            url: "_**Said: `HACKERMAN`**_ https://gph.is/1JSLT6V"
+            url: "_**Said: `HACKERMAN`: https://gph.is/1JSLT6V**_"
         },
         {
             name: "sah dude",
