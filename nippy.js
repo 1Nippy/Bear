@@ -173,6 +173,10 @@ const pics = [ //every variable assigned to something within brackets like this 
         {
             name: "limbo",
             url: "_**physics...: https://gph.is/1ZP0wPs**_"
+        },
+        {
+            name: "limbo",
+            url: "_**Hope you are happy...: http://gph.is/2dmXSwS**_"
         }
     
     ];
@@ -203,7 +207,7 @@ if (msg.startsWith(prefix + 'help')){ //here comes the prefix which is assigned 
     .addField("`Creator`", `***Hello, I am <@366609578625859584>, and I am a small bot made by <@262347242252402698>***`) //adds a field with the following content
     .addBlankField()//Blank field for more beautiful display
     .addField("`Invite Link`", "*Add me to your server with the link given to you with this command!*") //adds a field with the following content
-    .addField("`Word Replacements`", "*The following words get replaced with Pictures/Gifs:*\u200b```Hey, Hello, Bye, Shut up, Hackerman, Help, Invite, Sah dude, Awesome, Yes, No, Kys, Kms, Earth, Wanker, Special, Sad, Hype, Heil, haha, no u, Ily, Fuck, Thinking, Hentai, Anime, xd, Spoopy, Heyyy, dd, skrrt, Gay, Dead inside, Limbo ```\u200b*Use: Place requested word inbetween 2 Minus': -word-*")
+    .addField("`Word Replacements`", "*The following words get replaced with Pictures/Gifs:*\u200b```Hey, Hello, Bye, Shut up, Hackerman, Help, Invite, Sah dude, Awesome, Yes, No, Kys, Kms, Earth, Wanker, Special, Sad, Hype, Heil, haha, no u, Ily, Fuck, Thinking, Hentai, Anime, xd, Spoopy, Heyyy, dd, skrrt, Gay, Dead inside, Limbo, Bounce ```\u200b*Use: Place requested word inbetween 2 Minus': -word-*")
     .addBlankField()//Blank field for more beautiful display
     .setTimestamp() //This is at the bottom of the embed and shows when the Embed was created. You can delete this if you don't want it
      message.channel.send({embed}); //sends EMBED, this is needed, otherwise it won't create the embed
