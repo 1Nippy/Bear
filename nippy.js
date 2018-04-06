@@ -40,143 +40,143 @@ const pics = [ //every variable assigned to something within brackets like this 
         */
         {
             name: "bye",
-            url: "_**Good Bye Master, https://gph.is/22mdGVm FBAIUFBABFAPAJFOAHFIUWG : I will serve you again later**_"
+            url: "_**Good Bye Master, https://gph.is/22mdGVm FBAIUFBABFAPAJFOAHFIUWG : I will serve you again later **_"
         },
         {
             name: "shut up",
-            url: "_**Said: `Shut Up`: https://gph.is/2pSFu7r**_"
+            url: "_**Said: `Shut Up`: https://gph.is/2pSFu7r **_"
         },
         {
             name: "hello",
-            url: "_**Said: `Hello :) `: https://gph.is/1XddF2k**_"
+            url: "_**Said: `Hello :) `: https://gph.is/1XddF2k **_"
         },
         {
             name: "hackerman",
-            url: "_**Said: `HACKERMAN`: https://gph.is/1JSLT6V**_"
+            url: "_**Said: `HACKERMAN`: https://gph.is/1JSLT6V **_"
         },
         {
             name: "sah dude",
-            url: "_**Said: `Sah Dude`: http://gph.is/2hjTfbB**_"
+            url: "_**Said: `Sah Dude`: http://gph.is/2hjTfbB **_"
         },
         {
             name: "awesome",
-            url: "_**Said: `AWESOME`: https://gph.is/2roKEH4**_"
+            url: "_**Said: `AWESOME`: https://gph.is/2roKEH4 **_"
         },
         {
             name: "yes",
-            url: "_**Said: `Yes`: https://gph.is/Zfh9X7**_"
+            url: "_**Said: `Yes`: https://gph.is/Zfh9X7 **_"
         },
         {
             name: "no",
-            url: "_**Said: `no`: https://gph.is/2cHRuUl**_"
+            url: "_**Said: `no`: https://gph.is/2cHRuUl **_"
         },
         {
             name: "kys",
-            url: "_**Told you to KYS: https://gph.is/2c9Utl6**_"
+            url: "_**Told you to KYS: https://gph.is/2c9Utl6 **_"
         },
         {
             name: "kms",
-            url: "_**its all gonna be aight: https://gph.is/2b8vpgY**_"
+            url: "_**its all gonna be aight: https://gph.is/2b8vpgY **_"
         },
         {
             name: "earth",
-            url: "_**Is orbiting around the `Earth`: https://gph.is/2r1zhHZ**_"
+            url: "_**Is orbiting around the `Earth`: https://gph.is/2r1zhHZ **_"
         },
         {
             name: "wanker",
-            url: "_**Is a bloody wanker: https://gph.is/1uNZntY**_"
+            url: "_**Is a bloody wanker: https://gph.is/1uNZntY **_"
         },
         {
             name: "special",
-            url: "_**is feeling special https://gph.is/2jyAuph**_"
+            url: "_**is feeling special https://gph.is/2jyAuph **_"
         },
         {
             name: "sad",
-            url: "_**Is Sad af https://gph.is/1IE1EwT**_"
+            url: "_**Is Sad af https://gph.is/1IE1EwT **_"
         },
         {
             name: "hype",
-            url: "_**Is HYPED: https://gph.is/2fciexT**_"
+            url: "_**Is HYPED: https://gph.is/2fciexT **_"
         },
         {
             name: "heil",
-            url: "_**Praises die führer: https://gph.is/29P87gQ**_"
+            url: "_**Praises die führer: https://gph.is/29P87gQ **_"
         },
         {
             name: "haha",
-            url: "_**found you amusing: https://gph.is/2buKQy8**_"
+            url: "_**found you amusing: https://gph.is/2buKQy8 **_"
         },
         {
             name: "no u",
-            url: "_**Said: `no u` https://gph.is/2EreyGa**_"
+            url: "_**Said: `no u` https://gph.is/2EreyGa **_"
         },
         {
             name: "ily",
-            url: "_**has some gay feelings: https://gph.is/2uMY6qJ**_"
+            url: "_**has some gay feelings: https://gph.is/2uMY6qJ **_"
         },
         {
             name: "fuck",
-            url: "_**ask politely: https://gph.is/2urJs7h**_"
+            url: "_**ask politely: https://gph.is/2urJs7h **_"
         },
         {
             name: "thinking",
-            url: "_**Is thinking hard: https://gph.is/2jAdoZw**_"
+            url: "_**Is thinking hard: https://gph.is/2jAdoZw **_"
         },
         {
             name: "hentai",
-            url: "_**ask politely:https://gph.is/10o4gfV**_"
+            url: "_**ask politely:https://gph.is/10o4gfV **_"
         },
         {
             name: "anime",
-            url: "**^_^: https://gph.is/28V3f6v**"
+            url: "**^_^: https://gph.is/28V3f6v **"
         },
         {
             name: "xd",
-            url: "_**boo: https://gph.is/2c6881h**_"
+            url: "_**boo: https://gph.is/2c6881h **_"
         },
         {
             name: "nippy",
-            url: "_**begs for: https://gph.is/2dlznEz**_"
+            url: "_**begs for: https://gph.is/2dlznEz **_"
         },
         {
             name: "spoopy",
-            url: "_**Spoopy Scary: https://gph.is/2crl0Kp**_"
+            url: "_**Spoopy Scary: https://gph.is/2crl0Kp **_"
         },
         {
             name: "heyyy",
-            url: "_**Is feeling good: https://gph.is/2HHVBNk**_"
+            url: "_**Is feeling good: https://gph.is/2HHVBNk **_"
         },
         {
             name: "dd",
-            url: "_**has autism and is doing a: https://gph.is/2q3doXg**_"
+            url: "_**has autism and is doing a: https://gph.is/2q3doXg **_"
         },
         {
             name: "skrrt",
-            url: "_**Skrrrt: https://gph.is/2uS5RhM**_"
+            url: "_**Skrrrt: https://gph.is/2uS5RhM **_"
         },
         {
             name: "gay",
-            url: "_**HAA: https://gph.is/VwCc5w**_"
+            url: "_**HAA: https://gph.is/VwCc5w **_"
         },
         {
             name: "dead inside",
-            url: "_**is currently: https://gph.is/2gLw6Bc**_"
+            url: "_**is currently: https://gph.is/2gLw6Bc **_"
         },
         {
             name: "gg",
-            url: "_**had a: http://gph.is/2dZcrIP**_"
+            url: "_**had a: http://gph.is/2dZcrIP **_"
         },
         {
             name: "normie",
-            url: "_**ohno: https://gph.is/2ciiB9X**_"
+            url: "_**ohno: https://gph.is/2ciiB9X **_"
         },
         {
             name: "limbo",
-            url: "_**physics...: https://gph.is/1ZP0wPs**_"
+            url: "_**physics...: https://gph.is/1ZP0wPs **_"
         },
         {
             name: "bounce",
-            url: "_**Hope you are happy...: http://gph.is/2dmXSwS**_"
+            url: "_**Hope you are happy...: http://gph.is/2dmXSwS **_"
         }
     
     ];
