@@ -175,7 +175,7 @@ const pics = [ //every variable assigned to something within brackets like this 
             url: "_**physics...: https://gph.is/1ZP0wPs**_"
         },
         {
-            name: "limbo",
+            name: "bounce",
             url: "_**Hope you are happy...: http://gph.is/2dmXSwS**_"
         }
     
