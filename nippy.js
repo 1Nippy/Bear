@@ -180,7 +180,7 @@ const pics = [ //every variable assigned to something within brackets like this 
         },
         {
             name: "faggot",
-            url: "_** Thats not good: goo.gl/2pHw5o **_"
+            url: "_** Thats not good: https://bit.ly/2qsm7m5 **_"
         }
     
     ];
