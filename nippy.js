@@ -185,8 +185,9 @@ const pics = [ //every variable assigned to something within brackets like this 
     
     ];
     
-var status = ["with Nippy", "outside", "Error", "57%", "in the duckpond", "discord.exe", "javascript for kids", "with shadowbot", "-help", "alone in the dark", "with my self", "with mommy"]
+var status = ["with nippy", "outside", "-help", "alone in the dark", "with shadowbot", "with mommy"]
 bot.user.setActivity(status[Math.floor(Math.random() * status.length)])
+
 
 //Here comes the fun part. This for Loop, loops through the array. Variable P gets created, starting at 0. 
 //This letter p gets looped until it is smaller than the length of the array (pics)
