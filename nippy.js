@@ -11,7 +11,7 @@ bot.on("message", function(message){
 bot.on("ready", function(){ 
     console.log("Ready");
 });
- 
+
 //-------------------------------------------------------------------------------------------
 //OKAY NIPPY, IF YOU WANT TO UNDERSTAND ALL THE STUFF I DID, READ THE COMMENTS CAREFULLY!!!
 //-------------------------------------------------------------------------------------------
