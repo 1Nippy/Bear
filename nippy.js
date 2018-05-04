@@ -207,8 +207,8 @@ if (msg.startsWith(prefix + 'help')){ //here comes the prefix which is assigned 
     
     var embed = new Discord.RichEmbed() //this defines a variable for Embed. The Embed is what you explained as a more "beautiful" display
     //Everything from here until message.channel.send({embed}); IS PART OF THE EMBED
-    .setThumbnail("https://cdn.discordapp.com/attachments/427242907112701963/431158862339506176/bearxd.jpg") //sets the thumbnail to the picture you sent me
-    .setTitle("`🐻 Bear Roars to intimidate 🐻`") //sets the title to this, you can change this if you want
+    .setThumbnail("https://cdn.discordapp.com/attachments/430966217235234816/442091039629508642/MOSHED-2018-5-5-0-31-38.gif") //sets the thumbnail to the picture you sent me
+    .setTitle("`🐻 _**Hello there**_ 🐻`") //sets the title to this, you can change this if you want
     .setColor(0x990000) //this you can choose yourself, this is the colour of the embed side. Search for any Hex Colour and add a 0x to it: e.g. 0x00ffff
     //for your case I made it dark-ish red
     .addBlankField() //Blank field for more beautiful display
