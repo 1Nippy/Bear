@@ -188,7 +188,10 @@ const pics = [ //every variable assigned to something within brackets like this 
 var status = ["with nippy", "outside", "-help", "alone in the dark", "with shadowbot", "with mommy"]
 bot.user.setActivity(status[Math.floor(Math.random() * status.length)])
 
-
+if(message.content.toLowerCase()=="spam"){ 
+    message.channel.send("/tts :D :D :D :D :D :D :D :D :D :D :D :D :D :D :D :D Im sorry :D")
+}    
+    
 //Here comes the fun part. This for Loop, loops through the array. Variable P gets created, starting at 0. 
 //This letter p gets looped until it is smaller than the length of the array (pics)
 //p++ means p=p+1, which increases p by 1 everytime it goes through loop until it reaches the end of the array
@@ -214,7 +217,7 @@ if (msg.startsWith(prefix + 'help')){ //here comes the prefix which is assigned 
     .addBlankField() //Blank field for more beautiful display
     .addField("`Creator`", `***Hello, I am <@366609578625859584>, and I am a small bot made by <@262347242252402698>***`) //adds a field with the following content
     .addBlankField()//Blank field for more beautiful display
-    .addField("`Invite Link`", "*Add me to your server with the link given to you with this command!*") //adds a field with the following content
+    .addField("`Invite Link`", "*Add me to your server with the link given to you with this command! -Invite*") //adds a field with the following content
     .addField("`Word Replacements`", "*The following words get replaced with Pictures/Gifs:*\u200b```Hey, Hello, Bye, Shut up, Hackerman, Help, Invite, Sah dude, Awesome, Yes, No, Kys, Kms, Earth, Wanker, Special, Sad, Hype, Heil, haha, no u, Ily, Fuck, Thinking, Hentai, Anime, xd, Spoopy, Heyyy, dd, skrrt, Gay, Dead inside, Limbo, Bounce, Faggot ```\u200b*Use: Place requested word inbetween 2 Minus': -word-*")
     .addBlankField()//Blank field for more beautiful display
     .setTimestamp() //This is at the bottom of the embed and shows when the Embed was created. You can delete this if you don't want it
