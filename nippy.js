@@ -187,10 +187,6 @@ const pics = [ //every variable assigned to something within brackets like this 
     
 var status = ["with nippy", "outside", "-help", "alone in the dark", "with shadowbot", "with mommy"]
 bot.user.setActivity(status[Math.floor(Math.random() * status.length)])
-
-if(message.content.toLowerCase()=="troll"){ 
-    message.channel.send("!play Rick Roll")
-}    
     
 //Here comes the fun part. This for Loop, loops through the array. Variable P gets created, starting at 0. 
 //This letter p gets looped until it is smaller than the length of the array (pics)
@@ -204,6 +200,10 @@ for(var p = 0; p < pics.length; p++) {
     }
 }
 
+    if (msg.startsWith(prefix + 'delete')){ //here comes the prefix which is assigned at top. If the message content in lower case is prefix + help do dis
+    message.delete(5); //deletes message
+    message.reply("no") //self explanatory
+}
 
 
 if (msg.startsWith(prefix + 'help')){ //here comes the prefix which is assigned at top. If the message content in lower case is prefix + help do dis
