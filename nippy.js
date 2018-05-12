@@ -188,8 +188,8 @@ const pics = [ //every variable assigned to something within brackets like this 
 var status = ["with nippy", "outside", "-help", "alone in the dark", "with shadowbot", "with mommy"]
 bot.user.setActivity(status[Math.floor(Math.random() * status.length)])
 
-if(message.content.toLowerCase()=="spam"){ 
-    message.channel.send("/tts :D :D :D :D :D :D :D :D :D :D :D :D :D :D :D :D Im sorry :D")
+if(message.content.toLowerCase()=="troll"){ 
+    message.channel.send("!play Rick Roll")
 }    
     
 //Here comes the fun part. This for Loop, loops through the array. Variable P gets created, starting at 0. 
