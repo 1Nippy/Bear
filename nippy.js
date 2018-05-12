@@ -201,7 +201,7 @@ for(var p = 0; p < pics.length; p++) {
 }
 
     if (msg.startsWith(prefix + 'delete')){ //here comes the prefix which is assigned at top. If the message content in lower case is prefix + help do dis
-    message.delete(5); //deletes message
+    message.delete("5"); //deletes message
     message.reply("no") //self explanatory
 }
 
