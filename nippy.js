@@ -200,7 +200,7 @@ for(var p = 0; p < pics.length; p++) {
     }
 }
 
-if(message.content.toLowerCase()=="@everyone"){ 
+if(message.content.toLowerCase()=="@everyone "){ 
     message.send("https://bit.ly/2IcmT2l")
 }
     
