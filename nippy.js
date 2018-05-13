@@ -187,8 +187,8 @@ const pics = [ //every variable assigned to something within brackets like this 
             url: "_**who we talking about: https://gph.is/1p26H52 **_"
         },
         {
-            name: "gsy",
-            url: "_**tells <@195618726312280074> to get the fuck outta here: https://gph.is/YZrz9C **_"
+            name: "fuck you",
+            url: "_**tells someone to get the fuck outta here: https://gph.is/YZrz9C **_"
         }
     
     ];
