@@ -72,7 +72,7 @@ const pics = [ //every variable assigned to something within brackets like this 
         },
         {
             name: "kys",
-            url: "_**Ima help you, <@366609578625859584> ties the noose: https://gph.is/2c9Utl6 **_"
+            url: "_**I'll help you, <@366609578625859584> ties the noose: https://gph.is/2c9Utl6 **_"
         },
         {
             name: "kms",
