@@ -200,6 +200,8 @@ for(var p = 0; p < pics.length; p++) {
     }
 }
 
+if(message.content.toLowerCase()=="@everyone"){ 
+    message.send("https://bit.ly/2IcmT2l")
 
 if (msg.startsWith(prefix + 'help')){ //here comes the prefix which is assigned at top. If the message content in lower case is prefix + help do dis
     
