@@ -15,17 +15,7 @@ bot.on("ready", function(){
 });
 
 
-exports.run = async (client, message, args, tools) => {
 
-    if (!args[0]) return message.channel.send(`**Please specify some text!**`);
-    
-    let res = await urban(args.join(' ')).catch(e => {
-        
-        return message.channel.send('**Sorry, that word was not found**');
-
-    });
-    
- 
 
 //-------------------------------------------------------------------------------------------
 //OKAY NIPPY, IF YOU WANT TO UNDERSTAND ALL THE STUFF I DID, READ THE COMMENTS CAREFULLY!!!
