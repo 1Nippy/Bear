@@ -251,16 +251,6 @@ for(var p = 0; p < pics.length; p++) {
     }
 }
 
-    
-bot.on('guildMemberAdd', member => {
-    
-    console.log('User ' + member.user.username + ' has joined the server!')
-    
-    var role = member.guild.roles.find('name', 'Member');
-    
-    member.addRole(role)
-    
-    
 if(message.content.toLowerCase()=="@everyone "){ 
     message.send("https://bit.ly/2IcmT2l")
 }
