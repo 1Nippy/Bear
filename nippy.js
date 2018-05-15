@@ -2,8 +2,6 @@ const Discord = require('discord.js');
 
 const bot = new Discord.Client(); 
 
-const urban = require('relevant-urban');
-
 const prefix = '-'; //prefix is defined
 
 bot.on("message", function(message){ 
