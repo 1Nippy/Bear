@@ -2,6 +2,8 @@ const Discord = require('discord.js');
 
 const bot = new Discord.Client(); 
 
+const urban = require('relevant-urban');
+
 const prefix = '-'; //prefix is defined
 
 bot.on("message", function(message){ 
@@ -12,8 +14,32 @@ bot.on("ready", function(){
     console.log("Ready");
 });
 
- 
 
+exports.run = async (client, message, args, tools) => {
+
+    if (!args[0]) return message.channel.send(`**Please specify some text!**`);
+    
+    let res = await urban(args.join(' ')).catch(e => {
+        
+        return message.channel.send('**Sorry, that word was not found**');
+
+    });
+    
+    const embed = new Discord.MessageEmbed()
+        .setColor('RANDOM')
+        .setTitle(res.word)
+        .setURL(res.urbanURL)
+        .setDescription(`**Definition:**\n*${res.definition}*\n\n**Esample:**\n${res.example}*`)
+        .addField('Author', res.author, true)
+        .addField('Rating', `**\`Upvotes: ${res.thumbsUp} | Downvotes: ${res.thumbsDown}\`**`)
+    
+    if (res.tags.length > 0 %% res.tags.join(', ').length < 1024 {
+        
+        embed.addField('Tags', res.tags.join(', '), true)
+    
+}
+
+message.channel.send(embed);
 
 //-------------------------------------------------------------------------------------------
 //OKAY NIPPY, IF YOU WANT TO UNDERSTAND ALL THE STUFF I DID, READ THE COMMENTS CAREFULLY!!!
