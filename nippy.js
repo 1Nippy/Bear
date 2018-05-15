@@ -12,6 +12,16 @@ bot.on("ready", function(){
     console.log("Ready");
 });
 
+bot.on('guildMemberAdd', member => {
+    
+    console.log('User ' + member.user.username + ' has joined the server!')
+    
+    var role = member.guild.roles.find('name', 'Member');
+    
+    member.addRole(role)
+    
+
+
 //-------------------------------------------------------------------------------------------
 //OKAY NIPPY, IF YOU WANT TO UNDERSTAND ALL THE STUFF I DID, READ THE COMMENTS CAREFULLY!!!
 //-------------------------------------------------------------------------------------------
