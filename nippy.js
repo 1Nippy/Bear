@@ -257,8 +257,6 @@ bot.on('guildMemberAdd', member => {
     
     member.addRole(role)
     
-}):
-    
     
 if(message.content.toLowerCase()=="@everyone "){ 
     message.send("https://bit.ly/2IcmT2l")
