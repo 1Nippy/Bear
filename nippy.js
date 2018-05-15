@@ -216,7 +216,7 @@ const pics = [ //every variable assigned to something within brackets like this 
         },
         {
             name: "ball",
-            url: "_**is standing on a ball: http://gph.is/2BNMqHo **_"
+            url: "_**is standing on a ball: https://gph.is/2j9GkgW **_"
         },
         {
             name: "winner",
