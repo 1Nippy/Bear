@@ -25,21 +25,7 @@ exports.run = async (client, message, args, tools) => {
 
     });
     
-    const embed = new Discord.MessageEmbed()
-        .setColor('RANDOM')
-        .setTitle(res.word)
-        .setURL(res.urbanURL)
-        .setDescription(`**Definition:**\n*${res.definition}*\n\n**Esample:**\n${res.example}*`)
-        .addField('Author', res.author, true)
-        .addField('Rating', `**\`Upvotes: ${res.thumbsUp} | Downvotes: ${res.thumbsDown}\`**`)
-    
-    if (res.tags.length > 0 %% res.tags.join(', ').length < 1024 {
-        
-        embed.addField('Tags', res.tags.join(', '), true)
-    
-}
-
-message.channel.send(embed);
+ 
 
 //-------------------------------------------------------------------------------------------
 //OKAY NIPPY, IF YOU WANT TO UNDERSTAND ALL THE STUFF I DID, READ THE COMMENTS CAREFULLY!!!
