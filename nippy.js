@@ -310,7 +310,7 @@ if (msg.startsWith(prefix + 'help')){ //here comes the prefix which is assigned 
     .addField("`Prefix`", "*The prefix for this bot is set to* _** - **_")
     .addField("`Word Replacements`", "*The following words get replaced with Pictures/Gifs:*\u200b```Hey, Hello, Bye, Shut up, Hackerman, Help, Invite, Sah dude, Awesome, Yes, No, Kys, Kms, Earth, Wanker, Special, Sad, Hype, Heil, haha, no u, Ily, Fuck, Thinking, Hentai, Anime, xd, Spoopy, Heyyy, dd, skrrt, Gay, Dead inside, Limbo, Bounce, Faggot, Toxic, Table Flip, Ball, Surf, Bipolar, Winner, Nohomo, Cock ```\u200b*Use: Place requested word inbetween 2 Minus': -word-*")
     .addBlankField()
-    .addField("`R6S Operators`", "*Some of the operators from Rainbow Six | Siege works as word replacements, feel free to try them out*)
+    .addField("`R6S Operators`", "*Some of the operators from Rainbow Six | Siege works as word replacements, feel free to try them out*")
     .addBlankField()//Blank field for more beautiful display
     .setTimestamp() //This is at the bottom of the embed and shows when the Embed was created. You can delete this if you don't want it
      message.channel.send({embed}); //sends EMBED, this is needed, otherwise it won't create the embed
