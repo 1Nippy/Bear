@@ -273,6 +273,46 @@ const pics = [ //every variable assigned to something within brackets like this 
             name: "iq",
             url: "_**My name doesn't mean im smart..: https://gph.is/1Ni6mR5 **_"
         },
+        {
+            name: "smoke",
+            url: "_**We are going on a trip to a place called auschwitz..: http://gph.is/28Jt34o **_"
+        },
+        {
+            name: "mute",
+            url: "_**No more of this shit: https://gph.is/2sOJLdx **_"
+        },
+        {
+            name: "castle",
+            url: "_**No one can get in or out: http://gph.is/18M1tkz **_"
+        },
+        {
+            name: "pulse",
+            url: "_**A persons heartbeat can be up to 175 bpm, by the time im done, that number goes down to zero:  **_"
+        },
+        {
+            name: "doc",
+            url: "_**Don't worry, you are going to be all right: http://gph.is/2chH3Xs **_"
+        },
+        {
+            name: "rook",
+            url: "_**Pass those plates around: https://gph.is/1zcXuFM **_"
+        },
+        {
+            name: "kapkan",
+            url: "_**F*cking EDD's..: https://gph.is/28MYlbD **_"
+        },
+        {
+            name: "tachanka",
+            url: "_**May the lord be with you: https://gph.is/2sDKWNP **_"
+        },
+        {
+            name: "jager",
+            url: "_**You can stop worrying about grenades now: https://gph.is/2aokYqz **_"
+        },
+        {
+            name: "bandit",
+            url: "_**Don't touch my walls of steel: http://gph.is/1bbRpO5 **_"
+        },
     ];
     
 var status = ["with nippy", "outside", "-help", "alone in the dark", "with shadowbot", "with mommy"]
