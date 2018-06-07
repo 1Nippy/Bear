@@ -232,8 +232,47 @@ const pics = [ //every variable assigned to something within brackets like this 
         {
             name: "cock",
             url: "_**Man, thats a chicken: https://gph.is/2pSGz1v **_"
-        }
-    
+        },
+        {
+            name: "ash",
+            url: "_**IM FAST AF BOY: https://gph.is/13EB17Q **_"
+        },
+        {
+            name: "glaz",
+            url: "_**Don't be there for too long: https://gph.is/P1Y9JA **_"
+        },
+        {
+            name: "thatcher",
+            url: "_**Its all gone now, even the fookin laser sights: https://gph.is/2bLVUas **_"
+        },
+        {
+            name: "thermite",
+            url: "_**One big fucking hole coming right up: https://gph.is/1sCDAHV **_"
+        },
+        {
+            name: "fuze",
+            url: "_**Please don't do it: https://gph.is/2bTaIb4 **_"
+        },
+        {
+            name: "sledge",
+            url: "_**AAAAAHHHHH: https://gph.is/2c2WzoL **_"
+        },
+            {
+            name: "twitch",
+            url: "_**zap, zap, zap: https://gph.is/2bnNmWu **_"
+        },
+            {
+            name: "montagne",
+            url: "_**So you are just gonna stand there? https://gph.is/2a20hS4 **_"
+        },
+            {
+            name: "blitz",
+            url: "_**Master of the blitzkrieg: https://gph.is/2Jo9Cjz **_"
+        },
+            {
+            name: "iq",
+            url: "_**My name doesn't mean im smart..: https://gph.is/1Ni6mR5 **_"
+        },
     ];
     
 var status = ["with nippy", "outside", "-help", "alone in the dark", "with shadowbot", "with mommy"]
