@@ -313,6 +313,39 @@ const pics = [ //every variable assigned to something within brackets like this 
             name: "bandit",
             url: "_**Don't touch my walls of steel: http://gph.is/1bbRpO5 **_"
         },
+        {
+            name: "frost",
+            url: "_**Fuck shit balls shit shit: https://gph.is/2Hs9P3r **_"
+        },
+        {
+            name: "valkyrie",
+            url: "_**Im everywhere: https://gph.is/1rlZUkV **_"
+        },
+        {
+            name: "caveira",
+            url: "_**Where are they: https://gph.is/2iZyrEw **_"
+        },
+        {
+            name: "echo",
+            url: "_**feeling drunk? https://gph.is/296m3mX **_"
+        },
+        {
+            name: "mira",
+            url: "_**you do know i can see you? https://gph.is/2cywhxN **_"
+        },
+        {
+            name: "lesion",
+            url: "_**The lego man is back at it **_"
+        },
+        {
+            name: "ela",
+            url: "_**Moderate recoil: https://gph.is/VT11wl **_"
+        },
+        {
+            name: "vigil",
+            url: "_**You can't see me: https://gph.is/2ETpt7Y **_"
+        },
+        
     ];
     
 var status = ["with nippy", "outside", "-help", "alone in the dark", "with shadowbot", "with mommy"]
