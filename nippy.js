@@ -353,6 +353,10 @@ const pics = [ //every variable assigned to something within brackets like this 
             name: "maestro",
             url: "_**Im tachanka, only better: https://gph.is/2sFqbRU **_"
         },
+        {
+            name: "cheese",
+            url: "_** Cheesy af: https://gph.is/Hqefci"
+        },
         
     ];
     
