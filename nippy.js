@@ -375,7 +375,7 @@ const pics = [ //every variable assigned to something within brackets like this 
         },
         {
             name: "norm",
-            url: "_** the one and only: https://gph.is/2RxzXnz **_"
+            url: "_** well: https://media.discordapp.net/attachments/444617633208336406/669527672912740352/blursed_signs__q1trm5.jpg?width=477&height=754 **_"
         },
     ];
     
