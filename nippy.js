@@ -103,7 +103,7 @@ const pics = [ //every variable assigned to something within brackets like this 
         },
         {
             name: "heil",
-            url: "_**Praises die führer: https://gph.is/29P87gQ **_"
+            url: "_**oh boy ur a nazi, eh?: https://gph.is/29P87gQ **_"
         },
         {
             name: "haha",
@@ -151,7 +151,7 @@ const pics = [ //every variable assigned to something within brackets like this 
         },
         {
             name: "dd",
-            url: "_**has autism and is doing a: https://gph.is/2q3doXg **_"
+            url: "_**is actually a fortnite fan and is doing a: https://gph.is/2q3doXg **_"
         },
         {
             name: "skrrt",
@@ -179,11 +179,11 @@ const pics = [ //every variable assigned to something within brackets like this 
         },
         {
             name: "bounce",
-            url: "_**Hope you are happy...: http://gph.is/2dmXSwS **_"
+            url: "_**Hope you are happy with yourself...: http://gph.is/2dmXSwS **_"
         },
         {
             name: "faggot",
-            url: "_**Thats not good: https://bit.ly/2r7BGAQ **_"
+            url: "_**why say that: https://bit.ly/2r7BGAQ **_"
         },
         {
             name: "toxic",
@@ -195,7 +195,7 @@ const pics = [ //every variable assigned to something within brackets like this 
         },
         {
             name: "nigger",
-            url: "_**who we talking about: https://gph.is/2Kmfk5t **_"
+            url: "_**man ur a racist: https://gph.is/1TzlhMc **_"
         },
         {
             name: "good night",
@@ -230,7 +230,7 @@ const pics = [ //every variable assigned to something within brackets like this 
             url: "_**that sounds gay: https://gph.is/2ddIVP1 **_"
         },
         {
-            name: "cock",
+            name: "chicken",
             url: "_**Man, thats a chicken: https://gph.is/2pSGz1v **_"
         },
         {
@@ -371,7 +371,7 @@ const pics = [ //every variable assigned to something within brackets like this 
         },
     ];
     
-var status = ["with nippy", "outside", "-help", "alone in the dark", "with shadowbot", "with mommy"]
+var status = ["with nippy", "outside", "-help", "alone in the dark", "with you", "with mommy"]
 bot.user.setActivity(status[Math.floor(Math.random() * status.length)])
     
 //Here comes the fun part. This for Loop, loops through the array. Variable P gets created, starting at 0. 
