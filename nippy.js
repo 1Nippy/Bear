@@ -369,6 +369,14 @@ const pics = [ //every variable assigned to something within brackets like this 
             name: "jables",
             url: "_** jabbeels: https://gph.is/19ZSnjL **_"
         },
+        {
+            name: "goddamn",
+            url: "_** ...: https://gph.is/2w4KkTS **_"
+        },
+        {
+            name: "norm",
+            url: "_** the one and only: https://gph.is/2RxzXnz **_"
+        },
     ];
     
 var status = ["with nippy", "outside", "-help", "alone in the dark", "with you", "with mommy"]
@@ -404,7 +412,7 @@ if (msg.startsWith(prefix + 'help')){ //here comes the prefix which is assigned 
     .addField("`Invite Link`", "*Add me to your server with the link given to you with this command! -Invite*") //adds a field with the following content
     .addBlankField()
     .addField("`Prefix`", "*The prefix for this bot is set to* _** - **_")
-    .addField("`Word Replacements`", "*The following words get replaced with Pictures/Gifs:*\u200b```Hey, Hello, Bye, Shut up, Hackerman, Help, Invite, Sah dude, Awesome, Yes, No, Kys, Kms, Earth, Special, Sad, Hype, Heil, haha, no u, Ily, Fuck, Thinking, xd, Spoopy, Heyyy, dd, skrrt, Dead inside, Toxic, Table Flip, Ball, Surf, Bipolar, Winner, Nohomo, Chicken, Cheese, HappyBirthday ```\u200b*Use: Place requested word inbetween 2 Minus': -word-*")
+    .addField("`Word Replacements`", "*The following words get replaced with Pictures/Gifs:*\u200b```Hey, Hello, Bye, Shut up, Hackerman, Help, Invite, Sah dude, Awesome, Yes, No, Kys, Kms, Earth, Special, Sad, Hype, Heil, haha, no u, Ily, Fuck, Thinking, xd, Spoopy, Heyyy, dd, skrrt, Dead inside, Toxic, Table Flip, Ball, Surf, Bipolar, Winner, Nohomo, Chicken, Cheese, HappyBirthday, Goddamn ```\u200b*Use: Place requested word inbetween 2 Minus': -word-*")
     .addBlankField()
     .addField("`Got any ideas for me?`", "*Feel free to add/message Nippy and submit suggestions you have so i can improve.*")
     .addBlankField()//Blank field for more beautiful display
