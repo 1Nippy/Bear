@@ -355,9 +355,20 @@ const pics = [ //every variable assigned to something within brackets like this 
         },
         {
             name: "cheese",
-            url: "_** Cheesy af: https://gph.is/Hqefci"
+            url: "_** Cheesy af: https://gph.is/Hqefci **_"
         },
-        
+        {
+            name: "dangerzone",
+            url: "_** yes, you have your own gif danger: https://gph.is/g/aNq6XKE **_"
+        },
+        {
+            name: "happybirthday",
+            url: "_** well whos the old fella?: https://gph.is/g/4AygDYe **_"
+        },
+        {
+            name: "jables",
+            url: "_** jabbeels: https://gph.is/19ZSnjL **_"
+        },
     ];
     
 var status = ["with nippy", "outside", "-help", "alone in the dark", "with shadowbot", "with mommy"]
@@ -375,7 +386,7 @@ for(var p = 0; p < pics.length; p++) {
     }
 }
 
-if(message.content.toLowerCase()=="@everyone "){ 
+if(message.content.toLowerCase()=="bearbot "){ 
     message.send("https://bit.ly/2IcmT2l")
 }
     
@@ -393,9 +404,9 @@ if (msg.startsWith(prefix + 'help')){ //here comes the prefix which is assigned 
     .addField("`Invite Link`", "*Add me to your server with the link given to you with this command! -Invite*") //adds a field with the following content
     .addBlankField()
     .addField("`Prefix`", "*The prefix for this bot is set to* _** - **_")
-    .addField("`Word Replacements`", "*The following words get replaced with Pictures/Gifs:*\u200b```Hey, Hello, Bye, Shut up, Hackerman, Help, Invite, Sah dude, Awesome, Yes, No, Kys, Kms, Earth, Wanker, Special, Sad, Hype, Heil, haha, no u, Ily, Fuck, Thinking, Hentai, Anime, xd, Spoopy, Heyyy, dd, skrrt, Gay, Dead inside, Limbo, Bounce, Faggot, Toxic, Table Flip, Ball, Surf, Bipolar, Winner, Nohomo, Cock, Cheese ```\u200b*Use: Place requested word inbetween 2 Minus': -word-*")
+    .addField("`Word Replacements`", "*The following words get replaced with Pictures/Gifs:*\u200b```Hey, Hello, Bye, Shut up, Hackerman, Help, Invite, Sah dude, Awesome, Yes, No, Kys, Kms, Earth, Special, Sad, Hype, Heil, haha, no u, Ily, Fuck, Thinking, xd, Spoopy, Heyyy, dd, skrrt, Dead inside, Toxic, Table Flip, Ball, Surf, Bipolar, Winner, Nohomo, Chicken, Cheese, HappyBirthday ```\u200b*Use: Place requested word inbetween 2 Minus': -word-*")
     .addBlankField()
-    .addField("`R6S Operators`", "*Some of the operators from Rainbow Six | Siege works as word replacements, feel free to try them out*")
+    .addField("`Got any ideas for me?`", "*Feel free to add/message Nippy and submit suggestions you have so i can improve.*")
     .addBlankField()//Blank field for more beautiful display
     .setTimestamp() //This is at the bottom of the embed and shows when the Embed was created. You can delete this if you don't want it
      message.channel.send({embed}); //sends EMBED, this is needed, otherwise it won't create the embed
