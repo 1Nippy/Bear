@@ -347,7 +347,7 @@ const pics = [ //every variable assigned to something within brackets like this 
         },
         {
             name: "murica",
-            url: "_**Is it the real Alibi? https://gph.is/1gW3Fpn **_"
+            url: "_**FUCK YEAH: https://tenor.com/view/american-flag-eagle-raise-maerica-gif-12433443 **_"
         },
         {
             name: "maestro",
